@@ -34,6 +34,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'fira_sansregular', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -42,4 +44,15 @@ header {
 
 hr {
   clear: both;
+}
+
+h1 {
+  font-family: "fira_sansregular", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: "fira_sansmedium_italic", sans-serif;
+  font-style: italic;
 }
